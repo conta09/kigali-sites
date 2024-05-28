@@ -11,17 +11,17 @@ const Footer = () => {
         <ul className='flex flex-col font-semibold  text-[0.9rem]  leading-3  '>
             <li className='hover:text-white p-4'><Link to="/">Pricing</Link></li>
             <li className='hover:text-white p-4'><Link to="templates">Templates</Link></li>
-            <li className='hover:text-white p-4'><Link to="about">About</Link></li>
-            <li className='hover:text-white p-4'><Link to="about">Flash sales</Link></li>
-            <li className='hover:text-white p-4'><Link to="about">Small Business</Link></li>
+            <li className='hover:text-white p-4'><Link to="/">About</Link></li>
+            <li className='hover:text-white p-4'><Link to="/">Flash sales</Link></li>
+            <li className='hover:text-white p-4'><Link to="templates">Small Business</Link></li>
         </ul>
       </div>
       <div className="flex-1 text-start">
         <h3 className="text-[0.9rem] ml-2 text-[#717373] py-3 font-semibold">CONTACT</h3>
         <ul className='flex flex-col font-semibold  text-[0.9rem]  leading-3  '>
-            <li className='hover:text-white p-4'><Link to="about">About</Link></li>
-            <li className='hover:text-white p-4'><Link to="about">Flash sales</Link></li>
-            <li className='hover:text-white p-4'><Link to="about">Small Business</Link></li>
+            <li className='hover:text-white p-4'><Link to="/">About</Link></li>
+            <li className='hover:text-white p-4'><Link to="/">Flash sales</Link></li>
+            <li className='hover:text-white p-4'><Link to="/">Small Business</Link></li>
         </ul>
       </div>
       <div className="flex-1 mt-5">

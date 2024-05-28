@@ -1,7 +1,5 @@
 import React from 'react';
 import Navbar from './Navbar';
-import About from '../pages/About';
-import Home from '../pages/Home';
 import Button from './button';
 import Products from './Products';
 import Footer from './footer';
